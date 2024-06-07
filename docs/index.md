@@ -102,18 +102,12 @@ course_modules:
     ects: 1
 
 instructors:
-  - name: Alberto Díaz Álvarez
-    role: Prof. Contratado Doctor
-    image: https://miriadax-wp-uploads-pro.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/02/23094059/alberto-diaz-alvarez-e1684831374306.jpg
   - name: Elvira Amador Domínguez
     role: Prof. Ayudante Doctor
     image: https://pbs.twimg.com/profile_images/1618191909041602561/gadNfVji_400x400.jpg
-  - name: Francisco Serradilla García
-    role: Catedrático de Universidad
-    image: http://www.ahnfmed.uam.es/images/anuncios/Paco-perfil_(002).jpg
-  - name: Guillermo Iglesias Hernández
-    role: Ayudante
-    image: https://media.licdn.com/dms/image/D4E03AQFX1OCG6Hbi4A/profile-displayphoto-shrink_100_100/0/1716572637877?e=2147483647&v=beta&t=7arDjkDZxnHax3J9JxX8fz7VqXHhfIR7W86ImOfyFY0
+  - name: Felix José Fuentes Hurtado
+    role: Prof. Permamente Laboral
+    image: https://www.universidadviu.com/sites/universidadviu.com/files/styles/img_style_1_1_350/public/images/Foto_F_Fuentes_0.webp?itok=hQUnJhu0
   - name: María Celia Fernández Aller
     role: Prof. Contratado Doctor
     image: https://media.licdn.com/dms/image/C4D03AQFlw8HqJqPV2Q/profile-displayphoto-shrink_200_200/0/1639132459679?e=2147483647&v=beta&t=jwp6Nr-vPc6CB9JI7nfg9AMgO2ezgyq9TKAcrE3Qjxc
@@ -132,21 +126,21 @@ faq:
       El primer paso es inscribirte en el curso a través del enlace de
       inscripción que encontrarás en esta página. El **periodo de
       inscripción para el curso 2024-2025 es del 17 de mayo de 2024 al
-      2 de octubre de 2024**. Una vez inscrito, y validada tu
+      8 de marzo de 2025**. Una vez inscrito, y validada tu
       inscripción, se te comunicará por correo electrónico la carta de
       pago para formalizar **la matrícula, que deberá hacerse del 20 de
-      julio de 2024 al 16 de octubre de 2024**.
+      julio de 2024 al 25 de marzo de 2025**.
   - question: >
       Fantástico, me he inscrito, ¿y ahora qué? ¿Cuándo empieza el
       curso?
     answer: >
-      Del 1 de octubre de 2024 al 30 de noviembre de 2024. Y estate
+      Del 7 de marzo de 2025 al 10 de mayo de 2025. Y estate
       preparado para disfrutarlo.
   - question: ¿Cuál es el horario del curso?
     answer: >
       Los **viernes de 16:00 a 20:00**. Dicho esto, hay que tener en
       cuenta que **el curso es online y parcialmente asíncrono**.
-      Online, porque no es necesrio desplazarse al Campus Sur de la
+      Online, porque no es necesario desplazarse al Campus Sur de la
       Politécnica para recibir la formación, y parcialmente síncrono
       porque además de la docencia síncrona, se proporcionarán recursos
       online para que el estudiante pueda estudiarlos a su propio ritmo
